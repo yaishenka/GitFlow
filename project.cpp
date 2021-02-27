@@ -5,3 +5,4 @@
 // feature1 begin
 // feature1 more
 // feature1 finish
+// prepare for release 1.0
